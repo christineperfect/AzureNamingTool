@@ -52,4 +52,4 @@ jobs:
           app-name: 'azure-naming-tool'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CF3BA15E71E0471D9E0ACC01FC2C73B6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A4F29B9DCAA144EB8408CF76B1B9DCE8 }}
